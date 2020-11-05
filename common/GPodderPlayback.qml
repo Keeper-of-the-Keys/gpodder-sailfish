@@ -121,7 +121,9 @@ MediaPlayer {
             } else {
                 player.source = source;
             }
-            player.seekTargetSeconds = episode.position;
+            if (episode.position < episode.total) {
+                player.seekTargetSeconds = episode.position;
+            }
             seekAfterPlay = true;
 
             // Notify interested parties that the player is now active
