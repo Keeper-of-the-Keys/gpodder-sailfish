@@ -11,4 +11,4 @@ OrganizationName=org.gpodder
 ApplicationName=gpodder_sailfish
 
 [X-HarbourBackup]
-BackupPathList=.config/org.gpodder/gpodder.sailfish:.local/share/org.gpodder/gpodder.sailfish
+BackupPathList=.config/org.gpodder/gpodder_sailfish:.local/share/org.gpodder/gpodder_sailfish
