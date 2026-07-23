@@ -257,7 +257,7 @@
     <message>
         <location filename="../qml/ImportOPML.qml" line="65"/>
         <source>Enter filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadź nazwę pliku</translation>
     </message>
 </context>
 <context>
